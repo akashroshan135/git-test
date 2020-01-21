@@ -1,2 +1,2 @@
 # git-test
-Testing Git and Github through VS Code
+Testing Git and Github features through VS Code
